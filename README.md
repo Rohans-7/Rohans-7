@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
 - 📫 You can reach me on
-- twitter   - @imrds7
+- twitter   - https://twitter.com/imrds7
 - linkedin  - www.linkedin.com/in/rohan-sonawane-866637221
 
 <!---
