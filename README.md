@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohans-7
 - 👀 I’m interested in development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web and software development
 - 📫 You can reach me on
 - twitter   - https://twitter.com/imrds7
 - linkedin  - www.linkedin.com/in/rohan-sonawane-866637221
