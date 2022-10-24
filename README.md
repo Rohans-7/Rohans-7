@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohans-7
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning web3.0
+- 🌱 A web3.0 enthusiast
 - 📫 You can reach me on
 - twitter   - https://twitter.com/imrds7
 - linkedin  - www.linkedin.com/in/rohan-sonawane-866637221
