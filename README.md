@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohans-7
-- 👀 I’m interested in Blockchain
-- 🌱 A web3.0 enthusiast
+- 👀 I’m interested in Dev and DSA
+- 🌱 A ML enthusiast
 - 📫 You can reach me on
 - twitter   - https://twitter.com/imrds7
 - linkedin  - www.linkedin.com/in/rohan-sonawane-866637221
