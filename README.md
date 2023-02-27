@@ -2,8 +2,8 @@
 - 👀 I’m interested in Dev and DSA
 - 🌱 A ML enthusiast
 - 📫 You can reach me on
-- twitter   - https://twitter.com/imrds7
-- linkedin  - www.linkedin.com/in/rohan-sonawane-866637221
+- twitter 🐦  - https://twitter.com/imrds7
+- linkedin 👨‍💻 - www.linkedin.com/in/rohan-sonawane-866637221
 
 <!---
 Rohans-7/Rohans-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
