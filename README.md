@@ -3,7 +3,7 @@
 - 🌱 A ML enthusiast
 - 📫 You can reach me on
 - twitter 🐦  - https://twitter.com/imrds7
-- linkedin 👨‍💻 - www.linkedin.com/in/rohan-sonawane-866637221
+- linkedin 👨‍💻 - https://www.linkedin.com/in/rohansonawane7/
 
 <!---
 Rohans-7/Rohans-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
