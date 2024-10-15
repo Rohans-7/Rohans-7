@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![](https://visitcount.itsvg.in/api?id=imrds7&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![An image of @imrds7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imrds7)](https://holopin.io/@imrds7)
