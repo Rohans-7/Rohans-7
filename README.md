@@ -6,11 +6,18 @@
 
 ---
 
-<p align="center">
-   👀 I’m interested in <strong>Development</strong> and <strong>Data Structures & Algorithms (DSA)</strong> <br>
-   🌱 Currently learning and exploring <strong>Machine Learning</strong> <br>
-   📫 You can reach me on:
-</p>
+# Hi there! 👋
+
+👨‍💻 **Computer Science Engineer | Problem Solver**
+
+I'm a Computer Science Engineer passionate about coding solutions and optimizing user experiences. My journey revolves around creating impactful projects, from full-stack development to machine learning, while constantly exploring and learning new tech.
+
+### 🌟 Projects & Skills:
+- **Projects**: Full-stack apps, ML models, data-driven insights, and more.
+- **Skills**: Python, C/C++, Machine Learning, Full-Stack Dev, Data Structures
+
+### 🚀 About Me:
+Always learning, always growing. Ready to connect, collaborate, and innovate. Let's make something amazing together!
 
 <div align="center">
    <a href="https://twitter.com/imrds7" target="_blank" rel="noopener noreferrer">
