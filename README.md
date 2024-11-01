@@ -2,13 +2,12 @@
    <img src="https://visitcount.itsvg.in/api?id=imrds7&label=Profile%20Views&color=8&icon=2&pretty=true" alt="Profile Views" />
 </div>
 
-<h2 align="center">👋 Hi, I'm Rohan Sonawane (@Rohans-7)</h2>
+# Hi there! I am Rohan Sonawane👋
+
+👨‍💻 **Computer Science Engineer | Problem Solver**
 
 ---
 
-# Hi there! 👋
-
-👨‍💻 **Computer Science Engineer | Problem Solver**
 
 I'm a Computer Science Engineer passionate about coding solutions and optimizing user experiences. My journey revolves around creating impactful projects, from full-stack development to machine learning, while constantly exploring and learning new tech.
 
