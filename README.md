@@ -32,7 +32,7 @@ Always learning, always growing. Ready to connect, collaborate, and innovate. Le
 <!-- https://rohaniswriting.blogspot.com/ -->
 ---
 
-<h3 align="center">📉 Competitive Programming & LeetCode 📈</h3>
+<h3 align="center">📉 LeetCode 📈</h3>
 
 <p align="center">
    <a href="https://leetcode.com/imrds7/" target="_blank" rel="noopener noreferrer">
