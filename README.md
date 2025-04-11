@@ -13,7 +13,7 @@ I'm a Computer Science Engineer passionate about coding solutions and optimizing
 
 ### 🌟 Projects & Skills:
 - **Projects**: Full-stack apps, ML models, data-driven insights, and more.
-- **Skills**: Python, C/C++, Machine Learning, Full-Stack Dev, Data Structures
+- **Skills**: Python, C/C++, Java, Machine Learning, Springboot, DevOps, Data Structures
 
 ### 🚀 About Me:
 Always learning, always growing. Ready to connect, collaborate, and innovate. Let's make something amazing together!
