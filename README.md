@@ -1,6 +1,5 @@
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=imrds7&label=Profile%20Views&color=8&icon=2&pretty=true" alt="Profile Views" />
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rohans-7)
+
 
 # Hi there! I am Rohan Sonawane👋
 
