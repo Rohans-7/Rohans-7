@@ -3,7 +3,7 @@
 
 # Hi there! I am Rohan Sonawane👋
 
-👨‍💻 **Computer Science Engineer | Problem Solver**
+👨‍💻 **Computer Science Engineer**
 
 ---
 
