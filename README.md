@@ -8,7 +8,7 @@
 ---
 
 
-I'm a Computer Science Engineer passionate about coding solutions and optimizing user experiences. My journey revolves around creating impactful projects, from full-stack development to machine learning, while constantly exploring and learning new tech.
+I'm a Computer Science Engineer passionate about coding solutions and solving real world engineering problems from scratch. My journey revolves around creating impactful projects, from full-stack development to machine learning, while constantly exploring and learning new tech.
 
 ### 🌟 Projects & Skills:
 - **Projects**: Full-stack apps, ML models, data-driven insights, and more.
